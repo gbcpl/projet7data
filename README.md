@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 
-Dans le cadre d'une mission pour l'entreprise fictive Sanitoral, ce projet consiste à concevoir un tableau de bord interactif permettant de suivre l'avancement des projets et de comparer les résultats obtenus aux objectifs prévus.
+Dans le cadre d'une mission pour l'entreprise fictive Sanitoral lors de ma formation de Data Analyst, ce projet consiste à concevoir un tableau de bord interactif permettant de suivre l'avancement des projets et de comparer les résultats obtenus aux objectifs prévus.
 
 L'objectif est de fournir aux décideurs une vision synthétique des performances des projets, à l'échelle mondiale comme à l'échelle d'un pays, afin de faciliter le suivi opérationnel et la prise de décision.
 
