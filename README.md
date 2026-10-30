@@ -64,5 +64,5 @@ Le résultat fournit un support de suivi permettant aux responsables de mieux co
 **Domaine :** Business Intelligence et gestion de projet  
 **Outil principal :** Power BI  
 **Type de projet :** Tableau de bord décisionnel interactif  
-**Formation :** Data Analyst  
+**Formation :** formation Data Analyst  
 **Dépôt GitHub :** [projet7data](https://github.com/gbcpl/projet7data)
